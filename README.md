@@ -12,5 +12,5 @@ This project enables users to track expenses, analyze spending patterns, and mai
 ✅ Real-time updates and user-friendly interface<br>
 
 <h3>Tech Stack</h3>
-Frontend: HTML, CSS, JavaScript<br>
-Backend: Node.js, Express<br>
+HTML, CSS, JavaScript<br>
+
